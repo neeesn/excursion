@@ -1,1 +1,7 @@
-CSS for Excursion
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-sixe: 21px;
+    color: white;
+    text-align: center;
+    background-color: #000;
+}
